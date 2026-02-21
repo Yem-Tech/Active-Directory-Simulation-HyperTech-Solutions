@@ -185,7 +185,7 @@ The following security policies were implemented:
 
 Key implementation stages captured:
 
-- VM grouping
+- [VM grouping](https://github.com/Yem-Tech/Active-Directory-Simulation-HyperTech-Solutions/blob/main/Screenshots/1_vm_grouping.png)
 - AD DS installation
 - Domain Controller promotion
 - OU structure creation
