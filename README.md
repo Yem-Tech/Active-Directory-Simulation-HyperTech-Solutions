@@ -88,18 +88,31 @@ All client machines were configured to use the Domain Controller as their primar
 
 The OU structure reflects both geographic location and departmental separation:
 HyperTechai.com
+
+```
+HyperTechai.com
 │
 ├── Toronto
 │ ├── IT
+│ │ └── john.c.IT
+│ │
 │ └── HR
+│ └── patricia.a.HR
 │
 ├── Montreal
 │ ├── Digital-Marketing
+│ │ └── grace.o.DM
+│ │
 │ └── Audit
+│ └── ashafa.l.Audit
 │
 └── Halifax
 ├── Production
+│ └── mickie.v.PROD
+│
 └── Sales
+└── bryan.c.SALES
+```
 
 This structure allows:
 
