@@ -137,7 +137,7 @@ HyperTechai.com
 
 This structure allows:
 
-- Targeted GPO enforcement1
+- Targeted GPO enforcement
 - Department-level access control
 - Administrative delegation
 - Scalable enterprise design
