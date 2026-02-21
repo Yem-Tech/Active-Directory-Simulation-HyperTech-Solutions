@@ -87,7 +87,7 @@ The objectives of this simulation were to:
 ### IP Configuration
 
 - **Domain Name:** HyperTechai.com
-- **Server Name:** HyperTech
+- **Server Name:** HyperTechai
 - **Server Static IP:** 10.0.2.15
 - **Gateway:** 10.0.2.1
 
