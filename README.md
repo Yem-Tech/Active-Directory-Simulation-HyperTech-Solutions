@@ -27,12 +27,12 @@ HyperTech Solutions is a multi-branch technology-driven enterprise operating acr
 - HR Department
 
 ### 📍 Montreal Branch
-- Digital Marketing Department
+- Sales
 - Audit Department
 
 ### 📍 Halifax Branch
 - Production Department
-- Sales Department
+- Marketing Department
 
 All branches are centrally managed using Active Directory to enforce security policies, manage users, and control access across the organization.
 
@@ -55,13 +55,34 @@ The objectives of this simulation were to:
 
 ## 🌐 Network Design
 
-The simulated enterprise network includes:
-
-- Internet
-- Router (Gateway: 10.0.2.1)
-- Switch
-- Windows Server 2022 (Domain Controller)
-- Multiple Windows Client PCs
+```
+🌐 Internet
+│
+│
+┌────────────────┐
+│ Router │
+│ Gateway: │
+│ 10.0.2.1 │
+└────────────────┘
+│
+│
+┌────────────────┐
+│ Switch │
+└────────────────┘
+│
+┌───────────────────────┼────────────────────────┐
+│ │ │
+┌────────────────┐ ┌────────────────┐ ┌────────────────┐
+│ HyperTech │ │ Client PC 1 │ │ Client PC 2 │
+│ (Domain Ctrl) │ │ Toronto User │ │ Montreal User │
+│ 10.0.2.15 │ │ │ │ │
+└────────────────┘ └────────────────┘ └────────────────┘
+│
+┌────────────────┐
+│ Client PC 3 │
+│ Halifax User │
+└────────────────┘
+```
 
 ### IP Configuration
 
@@ -94,24 +115,24 @@ HyperTechai.com
 │
 ├── Toronto
 │ ├── IT
-│ │ └── john.c.IT
+│ │ └── john.IT
 │ │
 │ └── HR
-│ └── patricia.a.HR
+│ └── patricia.HR
 │
 ├── Montreal
 │ ├── Digital-Marketing
-│ │ └── grace.o.DM
+│ │ └── christine.Audit
 │ │
 │ └── Audit
-│ └── ashafa.l.Audit
+│ └── ashafa.Sales
 │
 └── Halifax
 ├── Production
-│ └── mickie.v.PROD
+│ └── mickie.Marketing
 │
 └── Sales
-└── bryan.c.SALES
+└── bryan.Prod
 ```
 
 This structure allows:
