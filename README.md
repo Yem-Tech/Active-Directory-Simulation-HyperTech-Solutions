@@ -186,21 +186,22 @@ The following security policies were implemented:
 Key implementation stages captured:
 
 - [VM grouping](https://github.com/Yem-Tech/Active-Directory-Simulation-HyperTech-Solutions/blob/main/Screenshots/1_vm_grouping.png)
-- AD DS installation
-- Domain Controller promotion
-- OU structure creation
-- User & group creation
-- User login
-- DNS configuration
-- Password policy
-- Account lockout policy
-- GPO linking
-- Access control panel
-- Cmd block
-- Blocking powershell
-- Gpupdate force
-- Control panel disabled
-- Prohibit access control panel
+- [AD DS installation](https://github.com/Yem-Tech/Active-Directory-Simulation-HyperTech-Solutions/blob/main/Screenshots/2_ad_installation.png)
+- [Domain Controller promotion](https://github.com/Yem-Tech/Active-Directory-Simulation-HyperTech-Solutions/blob/main/Screenshots/3_domaincontroller.png)
+- [OU structure creation](https://github.com/Yem-Tech/Active-Directory-Simulation-HyperTech-Solutions/blob/main/Screenshots/4_OUs_creation.png)
+- [Group creation](https://github.com/Yem-Tech/Active-Directory-Simulation-HyperTech-Solutions/blob/main/Screenshots/5_groups_creation.png)
+- [User creation](https://github.com/Yem-Tech/Active-Directory-Simulation-HyperTech-Solutions/blob/main/Screenshots/6_Users_creation.png)
+- [User login](https://github.com/Yem-Tech/Active-Directory-Simulation-HyperTech-Solutions/blob/main/Screenshots/6_Users_Pass_created.png)
+- [DNS configuration](https://github.com/Yem-Tech/Active-Directory-Simulation-HyperTech-Solutions/blob/main/Screenshots/7_dns_change.png)
+- [Password policy](https://github.com/Yem-Tech/Active-Directory-Simulation-HyperTech-Solutions/blob/main/Screenshots/8_password_policy.png)
+- [Account lockout policy](https://github.com/Yem-Tech/Active-Directory-Simulation-HyperTech-Solutions/blob/main/Screenshots/9_account_lockout_policy.png)
+- [GPO linking](https://github.com/Yem-Tech/Active-Directory-Simulation-HyperTech-Solutions/blob/main/Screenshots/10_gpo_link.png)
+- [Access control panel](https://github.com/Yem-Tech/Active-Directory-Simulation-HyperTech-Solutions/blob/main/Screenshots/11_access_cp.png)
+- [Cmd block](https://github.com/Yem-Tech/Active-Directory-Simulation-HyperTech-Solutions/blob/main/Screenshots/11_cmd_block.png)
+- [Blocking powershell](https://github.com/Yem-Tech/Active-Directory-Simulation-HyperTech-Solutions/blob/main/Screenshots/12_Blocking_powershll.png)
+- [Gpupdate force](https://github.com/Yem-Tech/Active-Directory-Simulation-HyperTech-Solutions/blob/main/Screenshots/14_gp_update_force.png)
+- [Control panel disabled](https://github.com/Yem-Tech/Active-Directory-Simulation-HyperTech-Solutions/blob/main/Screenshots/15_Control_Panel_disabled.png)
+- [Prohibit access control panel](https://github.com/Yem-Tech/Active-Directory-Simulation-HyperTech-Solutions/blob/main/Screenshots/15_prohibit_access_cp.png)
 
 ---
 
