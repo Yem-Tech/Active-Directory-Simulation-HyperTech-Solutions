@@ -121,17 +121,17 @@ HyperTechai.com
 │ └── patricia.HR
 │
 ├── Montreal
-│ ├── Digital-Marketing
+│ ├── Audit
 │ │ └── christine.Audit
 │ │
-│ └── Audit
+│ └── Sales
 │ └── ashafa.Sales
 │
 └── Halifax
-├── Production
+├── Marketing
 │ └── mickie.Marketing
 │
-└── Sales
+└── Production
 └── bryan.Prod
 ```
 
