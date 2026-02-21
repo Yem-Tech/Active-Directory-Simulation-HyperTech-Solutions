@@ -183,27 +183,6 @@ The following security policies were implemented:
 
 ## 📸 Screenshots
 
-VM_grouping
-AD_installation
-Domain_controller
-OUs_creation
-Groups_creation
-users_login
-users_interface
-users_creation
-Computername_domain_changes
-dns_change
-password_policy
-account_lockout_policy
-GPO_link
-access_cp
-cmd_block
-Blockingpowershell
-networkaccess
-gpupdate_force
-control_panel_disables
-prohibit_access_control_panel
-
 Key implementation stages captured:
 
 - VM grouping
@@ -211,9 +190,17 @@ Key implementation stages captured:
 - Domain Controller promotion
 - OU structure creation
 - User & group creation
+- User login
 - DNS configuration
+- Password policy
+- Account lockout policy
 - GPO linking
-- Policy enforcement validation
+- Access control panel
+- Cmd block
+- Blocking powershell
+- Gpupdate force
+- Control panel disabled
+- Prohibit access control panel
 
 ---
 
