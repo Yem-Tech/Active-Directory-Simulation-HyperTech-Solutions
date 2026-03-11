@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project demonstrates the deployment and configuration of a Windows Server Domain Controller (Active Directory) for a simulated multi-branch enterprise called **HyperTech Solutions**.
+This project demonstrates the deployment and configuration of a Windows Server Domain Controller (Active Directory) for a simulated multi-branch enterprise called **HyperTechAi Solutions**.
 
 The lab simulates centralized identity and access management across multiple locations using Windows Server 2022 and Active Directory Domain Services (AD DS).
 
@@ -20,7 +20,7 @@ The implementation includes:
 
 ## 🏢 Company Structure
 
-HyperTech Solutions is a multi-branch technology-driven enterprise operating across three Canadian locations:
+HyperTechAi Solutions is a multi-branch technology-driven enterprise operating across three Canadian locations:
 
 ### 📍 Toronto (Headquarters)
 - IT Department
