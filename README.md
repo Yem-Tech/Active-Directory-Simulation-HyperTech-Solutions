@@ -1,4 +1,4 @@
-# Active Directory Simulation – HyperTech Solutions
+# Active Directory Simulation – HyperTechAi Solutions
 
 ## 📌 Project Overview
 
